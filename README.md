@@ -153,17 +153,25 @@ All screening decisions, data extraction, analysis, and writing are performed by
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Nida BAŞER**
+| [Institution](ogu.edu.tr)
+| [Email](501720241001@ogrenci.ogu.edu.tr)
+| [Personal email](nida.bsr@gmail.com)
+| [ORCID](https://orcid.org/0000-0001-5016-7456)
 
-[Institution] Eskişehir Osmangazi University / TURKIYE
+**Dr. Damla SİVRİOĞLU ASLAN**
+| [Institution](company)
+| [Email](your@email.com)
+| [Personal email](your@email.com)
+| [ORCID](https://orcid.org/0000-xxxx-xxxx-xxxx)
 
-[Email] 501720241001@ogrenci.ogu.edu.tr
-
-[Personal email] nida.bsr@gmail.com
-
-[ORCID](https://orcid.org/0000-0001-5016-7456)
+**Dr. Berna ATAK BÜLBÜL**
+| [Institution](company)
+| [Email](your@email.com)
+| [Personal email](your@email.com)
+| [ORCID](https://orcid.org/0000-xxxx-xxxx-xxxx)
 
 ---
 
@@ -179,7 +187,7 @@ Included paper PDFs are subject to their respective publisher licenses.
 Once published, cite this review as:
 
 ```bibtex
-@article{yourname2025slr,
+@article{slr2026,
   title   = {A Systematic Literature Review of AI Agents for Software Documentation},
   author  = {Your Name},
   journal = {arXiv preprint},
@@ -189,5 +197,4 @@ Once published, cite this review as:
 ```
 
 ---
-
-*Protocol registered / timestamped via Git tag `protocol-v1.0` on [01.04.2026]. Search conducted after protocol was frozen.*
+*Protocol registered / timestamped via Git tag `protocol-v1.0` on [02.04.2026]. Search conducted after protocol was frozen.*
