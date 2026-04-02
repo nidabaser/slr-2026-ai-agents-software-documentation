@@ -28,7 +28,7 @@
 slr-ai-agents-software-documentation/
 │
 ├── README.md                          # This file
-├── PROTOCOL.md                        # Full review protocol (frozen)
+├── PROTOCOL.PDF                        # Full review protocol (frozen)
 ├── CHANGELOG.md                       # Decision and version history
 │
 ├── protocol/
@@ -99,7 +99,7 @@ AND
 - **SE Venues:** ICSE, FSE, ASE, ICSME, MSR, ICPC
 - **AI/ML Venues:** ACL, EMNLP, NeurIPS, ICML (with code focus)
 - **Journals:** TSE, TOSEM, EMSE, JSS
-- **Publication years:** 2021–2024
+- **Publication years:** 2021–2026
 - Studies with empirical evaluation or implementation
 - English language, full-text accessible
 
