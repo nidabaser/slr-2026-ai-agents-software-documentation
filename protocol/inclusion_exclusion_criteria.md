@@ -1,5 +1,5 @@
 ### Inclusion Criteria
-- Databases: IEEE Xplore, ACM Digital Library, Scopus, arXiv
+- Databases: IEEE Xplore, ACL Anthology, Scopus, arXiv
 - SE Venues: ICSE, FSE, ASE, ICSME, MSR, ICPC
 - AI/ML Venues: ACL, EMNLP, NeurIPS, ICML (with code focus)
 - Journals: TSE, TOSEM, EMSE, JSS
