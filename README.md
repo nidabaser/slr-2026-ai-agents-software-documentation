@@ -73,12 +73,16 @@ This review follows the **Kitchenham & Charters (2007)** guidelines for conducti
 
 | Database | Status | Records |
 |----------|--------|---------|
-| Google Scholar | ⏳ Pending | — |
-| IEEE Xplore | ⏳ Pending | — |
-| ACM Digital Library | ⏳ Pending | — |
-| Scopus | ⏳ Pending | — |
-| arXiv (direct) | ⏳ Pending | — |
-| **Total (after deduplication)** | | **TBD** |
+| IEEE Xplore | ✅ Completed | 269 |
+| ACL Anthology | ✅ Completed | 56 |
+| Scopus | ✅ Completed | 396 |
+| Google Scholar | ✅ Completed | 61 |
+| **Total** | | **n = 782** |
+| Total (after deduplication) | - 178 excluded | 604 |
+| Pre-Screening (keyword excluded) | - 412 excluded | 192 |
+| Title Abstract (T/A) Screening | - 131 excluded | 61 |
+| Full-text Screening | - 40 excluded | 21 |
+| **Final Studies included in SLR** |  | **n = 21** |
 
 ### Search String
 
@@ -117,11 +121,12 @@ AND
 ### PRISMA Flow (Live)
 
 ```
-Identification:   TBD records
-After dedup:      TBD
-T/A Screening:    TBD pass / TBD excluded
-Full-text:        TBD assessed / TBD excluded
-INCLUDED:         TBD
+Identification:   782 records
+After dedup:      604
+Pre-Screening:    192 pass / 412 excluded
+T/A Screening:    61 pass / 131 excluded
+Full-text:        21 assessed / 40 excluded
+INCLUDED:         21
 ```
 ---
 
