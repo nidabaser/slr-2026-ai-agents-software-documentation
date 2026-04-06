@@ -1,8 +1,6 @@
 # 🔍 Systematic Literature Review: AI Agents for Software Documentation
 
 [![Protocol Status](https://img.shields.io/badge/Protocol-Frozen%20v1.0-blue)](./PROTOCOL.md)
-[![Screening Status](https://img.shields.io/badge/Screening-In%20Progress-yellow)](./screening/)
-[![Papers Included](https://img.shields.io/badge/Papers%20Included-TBD-lightgrey)](./screening/SLR_DataExtraction.xlsx)
 [![Methodology](https://img.shields.io/badge/Methodology-Kitchenham%20%26%20Charters-green)](./protocol/review_protocol_v1.0.md)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-orange)](./LICENSE)
 
@@ -118,7 +116,7 @@ AND
 
 ## 📊 Current Progress
 
-### PRISMA Flow (Live)
+### PRISMA Flow
 
 ```
 Identification:   782 records
@@ -128,6 +126,9 @@ T/A Screening:    61 pass / 131 excluded
 Full-text:        21 assessed / 40 excluded
 INCLUDED:         21
 ```
+
+![PRISMA DIAGRAM](writing\figures\PRISMA_DIAGRAM.PNG "PRISMA DIAGRAM")
+
 ---
 
 ## 🤖 AI-Assisted Workflow & Academic Integrity
