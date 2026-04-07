@@ -126,7 +126,8 @@ T/A Screening:    61 pass / 131 excluded
 Full-text:        21 assessed / 40 excluded
 INCLUDED:         21
 ```
-![Alt text](writing\figures\PRISMA.png)
+
+<img width="800" alt="PRISMA" src="https://github.com/user-attachments/assets/ce2b6773-57b5-49d1-ada7-a7b82bd78d95" />
 
 ---
 
