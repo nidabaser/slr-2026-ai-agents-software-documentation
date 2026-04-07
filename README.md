@@ -126,8 +126,7 @@ T/A Screening:    61 pass / 131 excluded
 Full-text:        21 assessed / 40 excluded
 INCLUDED:         21
 ```
-
-![PRISMA DIAGRAM](writing\figures\PRISMA_DIAGRAM.PNG "PRISMA DIAGRAM")
+![Alt text](writing\figures\PRISMA.png)
 
 ---
 
