@@ -1,4 +1,4 @@
-> _This is a draft version for Section 1: Introduction - 11.04.2026_
+> _This is a draft version for Section 1: Introduction - 12.04.2026_
 
 ### SECTION 1 : INTRODUCTION
 
@@ -33,4 +33,12 @@ Table 1 below presents five key limitations addressed in this systematic literat
 
 ![alt text](../figures/Table1.png)
 
-> _This is a draft version for Section 1: Introduction - 11.04.2026_
+#### Research Questions
+This systematic literature review is structured around five research questions (RQs):
+- RQ1: What AI agent architectures have been proposed for automated software documentation, and what are their main structural features?
+- RQ2: What types of documentation artifacts and granularity levels are targeted, and how does coverage vary across programming languages?
+- RQ3: What metrics and methods are used to assess documentation quality, and how well do they agree with human judgment?
+- RQ4: What are the reported benefits, limitations, and failure modes — including hallucination — of the reviewed systems?
+- RQ5: To what extent do the reviewed systems address documentation maintenance, including automated update triggers and CI/CD integration?
+
+> _This is a draft version for Section 1: Introduction - 12.04.2026_
