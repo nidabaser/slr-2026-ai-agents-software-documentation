@@ -33,6 +33,15 @@ Table 1 below presents five key limitations addressed in this systematic literat
 
 ![alt text](../figures/Table1.png)
 
+#### Research gaps
+This review, which examined a total of 21 primary studies, reveals three critical gaps that no previous research has identified or addressed together:
+
+- **Gap 1:** Automated maintenance is almost nonexistent. Seventeen of the 21 systems in this review (81%) lack an automated update mechanism and require manual, on-demand calls. Only RepoAgent (Luo et al., 2024) implements a full automated update cycle via a Git pre-commit hook. As previously mentioned, Yamasaki et al. (2026) show that AI agents merge 34.5% of documentation PRs in real repositories without any human review, but there is no system in the literature designed to detect legacy documentation after code changes or decide what needs to be rebuilt.
+
+- **Gap 2:** An accepted evaluation standard does not exist. This gap is clearly evident in eight of the 21 studies. BLEU and ROUGE have been widely shown to correlate poorly with human judgment (Zhu et al., 2024). BERTScore achieves only a 69.79% Spearman correlation with human scores (Wu et al., 2025). GPT-4-turbo, as a peer reviewer, still produces approximately 50% false positives in incorrect codes (Crupi et al., 2025). Since each article uses a different combination of metrics, inter-study comparison is structurally impossible.
+
+- **Gap 3:** Real-world agent outputs are not auditable. None of the 20 systems in this dataset provide confidence scores, evidence trails, or hallucination risk indicators for the documentation they produce. This lack of auditing is also a serious problem, as Yamasaki et al. (2026) showed that agent-written documentation is accepted in real workflows with almost no review.
+
 #### Research Questions
 This systematic literature review is structured around five research questions (RQs):
 - RQ1: What AI agent architectures have been proposed for automated software documentation, and what are their main structural features?
