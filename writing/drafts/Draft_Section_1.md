@@ -1,4 +1,4 @@
-> _This is a draft version for Section 1: Introduction - 12.04.2026_
+> _This is a draft version for Section 1: Introduction - 14.04.2026_
 
 ### SECTION 1 : INTRODUCTION
 
@@ -50,4 +50,6 @@ This systematic literature review is structured around five research questions (
 - RQ4: What are the reported benefits, limitations, and failure modes — including hallucination — of the reviewed systems?
 - RQ5: To what extent do the reviewed systems address documentation maintenance, including automated update triggers and CI/CD integration?
 
-> _This is a draft version for Section 1: Introduction - 12.04.2026_
+These five research questions cover the full lifecycle of software documentation as an engineered artifact: how documentation is produced (RQ1, RQ2), how its quality is measured (RQ3), what its practical limitations are (RQ4), and how it is maintained over time (RQ5). The fifth research question, which is deliberately placed last, represents both the urgency of this field in practice and the dimension where it is most empirically lacking, as highlighted in the research gap analysis.
+
+> _This is a draft version for Section 1: Introduction - 14.04.2026_
