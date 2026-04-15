@@ -1,4 +1,4 @@
-> _This is a draft version for Section 1: Introduction - 14.04.2026_
+> _This is a draft version for Section 1: Introduction - 15.04.2026_
 
 ### SECTION 1 : INTRODUCTION
 
@@ -27,13 +27,14 @@ Thanks to the above definition, we are deliberately excluding only simple, reque
 
 Because the problem of generating documentation has already been largely solved, we can say that now the important thing is continous documentation. So systems where it is unclear when, how, and by whom the generated documentation will be updated as code development continues do not provide a complete solution to the documentation debt problem.
 
+#### Research gaps and rationale for this SLR
+
 Furthermore, despite the rapid growth of this research field, there is currently no systematic analysis addressing AI agent-based documentation approaches. Existing research generally focuses on topics such as LLM-based code summarization and empirical analyses of documentation quality (Zhang et al., 2022; Dong et al., 2025; Wang et al., 2025a; Wang et al., 2025b).
 
 Table 1 below presents five key limitations addressed in this systematic literature review, while also comparing this study with existing reviews:
 
 ![alt text](../figures/Table1.png)
 
-#### Research gaps
 This review, which examined a total of 21 primary studies, reveals three critical gaps that no previous research has identified or addressed together:
 
 - **Gap 1:** Automated maintenance is almost nonexistent. Seventeen of the 21 systems in this review (81%) lack an automated update mechanism and require manual, on-demand calls. Only RepoAgent (Luo et al., 2024) implements a full automated update cycle via a Git pre-commit hook. As previously mentioned, Yamasaki et al. (2026) show that AI agents merge 34.5% of documentation PRs in real repositories without any human review, but there is no system in the literature designed to detect legacy documentation after code changes or decide what needs to be rebuilt.
@@ -64,4 +65,4 @@ This SLR makes four contributions to the software engineering literature:
 4. It presents a future research agenda with specific research questions derived for each identified gap. This agenda aims to serve as a roadmap for researchers and tool developers entering the field.
 
 
-> _This is a draft version for Section 1: Introduction - 14.04.2026_
+> _This is a draft version for Section 1: Introduction - 15.04.2026_
