@@ -52,4 +52,16 @@ This systematic literature review is structured around five research questions (
 
 These five research questions cover the full lifecycle of software documentation as an engineered artifact: how documentation is produced (RQ1, RQ2), how its quality is measured (RQ3), what its practical limitations are (RQ4), and how it is maintained over time (RQ5). The fifth research question, which is deliberately placed last, represents both the urgency of this field in practice and the dimension where it is most empirically lacking, as highlighted in the research gap analysis.
 
+#### Contributions of this review
+This SLR makes four contributions to the software engineering literature:
+
+1. It presents a synthesis of 21 primary studies (2023–2026) on AI agents for software documentation, organised around five research questions and conducted according to SLR methodology (Kitchenham & Charters, 2007). This synthesis provides the first comprehensive mapping of the agent-based documentation landscape.
+
+2. It organises the literature with a five-cluster thematic model: single-agent pipelines, repository-scale agents, multi-agent systems, evaluation frameworks, and SE 3.0 adoption.
+
+3. It identifies three research gaps with supporting evidence, focusing on automated maintenance, evaluation standards, and audit trail requirements as the highest-priority issues.
+
+4. It presents a future research agenda with specific research questions derived for each identified gap. This agenda aims to serve as a roadmap for researchers and tool developers entering the field.
+
+
 > _This is a draft version for Section 1: Introduction - 14.04.2026_
