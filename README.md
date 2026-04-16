@@ -167,12 +167,6 @@ All screening decisions, data extraction, analysis, and writing are performed by
 | [Personal email](nida.bsr@gmail.com)
 | [ORCID](https://orcid.org/0000-0001-5016-7456)
 
-**Dr. Damla SİVRİOĞLU ASLAN**
-| [Institution](company)
-| [Email](your@email.com)
-| [Personal email](your@email.com)
-| [ORCID](https://orcid.org/0000-xxxx-xxxx-xxxx)
-
 **Dr. Berna ATAK BÜLBÜL**
 | [Institution](company)
 | [Email](your@email.com)
